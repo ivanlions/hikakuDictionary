@@ -1,2 +1,3 @@
-# hikakuDictionaryPage
-Hikaku support/privacy policy
+# hikakuDictionary
+support
+privacy policy
